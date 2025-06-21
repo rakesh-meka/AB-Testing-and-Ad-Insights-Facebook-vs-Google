@@ -2,86 +2,90 @@
 
 ## 🔍 Project Overview
 
-This project focuses on **A/B testing** using real-world marketing campaign data to analyze customer behavior and campaign effectiveness. The goal is to determine which version of a marketing strategy performs better by using data-driven decision-making techniques.
+This project focuses on **A/B testing** using real-world marketing campaign data to analyze the performance of **Facebook** and **Google AdWords** campaigns. The goal is to determine which platform performs better by analyzing views, clicks, conversions, and cost metrics.
 
-This analysis helps businesses understand customer segments, optimize marketing efforts, and improve return on investment (ROI).
+This analysis helps marketers make informed decisions and improve ROI based on data-backed insights.
 
 ---
 
 ## 📁 Files Included
 
-- `AB Testing (Marketing Campaigns).ipynb`: Jupyter Notebook containing data analysis, A/B testing, visualizations, and final conclusions.
-- `marketing_campaign.csv`: Dataset containing customer and campaign-related information used for the analysis.
+- `AB Testing (Marketing Campaigns).ipynb`: Jupyter Notebook with complete analysis, visualizations, and A/B test results.
+- `marketing_campaign.csv`: Dataset containing digital ad performance data for Facebook and AdWords campaigns.
 
 ---
 
 ## 🧪 Techniques Used
 
-- Data Cleaning & Preprocessing (handling missing values, formatting)
+- Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
-- A/B Testing: 
-  - Hypothesis formulation
-  - Statistical testing (t-test, z-test)
+- A/B Testing:
+  - Hypothesis Formulation
+  - Statistical Testing (t-test)
 - Data Visualization: matplotlib, seaborn
-- Insights and recommendations
+- Insights & Business Recommendations
 
 ---
 
-## 📈 Dataset Description
+## 📊 Dataset Description
 
-The dataset contains details of marketing campaigns run by a company, with features such as:
+The dataset contains weekly performance metrics for marketing campaigns across Facebook and AdWords. Below are the column names:
 
-- `ID`: Unique identifier
-- `Year_Birth`: Customer's birth year
-- `Education`, `Marital_Status`: Demographic information
-- `Income`, `Kidhome`, `Teenhome`: Family and income details
-- `Recency`, `MntWines`, `MntFruits`, etc.: Customer purchase history
-- `AcceptedCmp1-5`, `Response`: Response to various campaigns
-- `Complain`, `Dt_Customer`: Customer behavior metrics
+### 📆 Common
+- `Date`
+
+### 📘 Facebook Campaign Metrics
+- `Facebook Ad Campaign`
+- `Facebook Ad Views`
+- `Facebook Ad Clicks`
+- `Facebook Ad Conversions`
+- `Cost per Facebook Ad`
+- `Facebook Click-Through Rate (Clicks / View)`
+- `Facebook Conversion Rate (Conversions / Clicks)`
+- `Facebook Cost per Click (Ad Cost / Clicks)`
+
+### 🔍 AdWords Campaign Metrics
+- `AdWords Ad Campaign`
+- `AdWords Ad Views`
+- `AdWords Ad Clicks`
+- `AdWords Ad Conversions`
+- `Cost per AdWords Ad`
+- `AdWords Click-Through Rate (Clicks / View)`
+- `AdWords Conversion Rate (Conversions / Click)`
+- `AdWords Cost per Click (Ad Cost / Clicks)`
 
 ---
 
-## 📊 Key Questions Answered
+## 📌 Key Questions Answered
 
-- Which campaign performs better?
-- Do age, income, or marital status affect campaign response?
-- Is there a significant difference in customer behavior between the A and B groups?
-- What are the business insights we can derive from the test?
+- Which platform—Facebook or AdWords—performs better?
+- How do views, clicks, and conversions compare?
+- What is the cost-effectiveness (CPC, CTR, CVR) of each platform?
+- Are the differences statistically significant?
 
 ---
 
 ## 🔧 Tools & Technologies
 
-- **Language**: Python
-- **Libraries**: Pandas, NumPy, Seaborn, Matplotlib, SciPy, Statsmodels
+- **Language**: Python  
+- **Libraries**: pandas, numpy, seaborn, matplotlib, scipy  
 - **Platform**: Jupyter Notebook
 
 ---
 
 ## ✅ Results & Insights
 
-- Conducted statistical A/B testing to validate marketing campaign effectiveness.
-- Found specific customer segments (based on age, income, etc.) that responded better to certain campaigns.
-- Provided actionable business recommendations based on data findings.
-
----
-
-## 📌 How to Use
-
-1. Clone the repository
-2. Open `AB Testing (Marketing Campaigns).ipynb` in Jupyter Notebook
-3. Run all cells to view analysis and results
+- A/B testing provided statistical evidence on which ad platform yields better performance.
+- Found notable differences in conversion rate and cost efficiency between Facebook and AdWords.
+- Suggested data-driven recommendations for optimizing digital marketing budgets.
 
 ---
 
 ## 📫 Contact
 
-For any questions or collaboration, feel free to connect:
-
 **Rakesh Meka**  
 📧 rakeshmeka.work@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rakeshmeka/)
-
 
 ---
 
