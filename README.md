@@ -80,7 +80,8 @@ For any questions or collaboration, feel free to connect:
 
 **Rakesh Meka**  
 📧 rakeshmeka.work@gmail.com  
-🔗 [LinkedIn]([(https://www.linkedin.com/in/rakeshmeka/)]
+🔗 [LinkedIn](https://www.linkedin.com/in/rakeshmeka/)
+
 
 ---
 
