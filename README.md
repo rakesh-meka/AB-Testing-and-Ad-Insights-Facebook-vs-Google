@@ -1,5 +1,4 @@
-# 📊 A-B-Testing-and-Ad-Performance-Analysis-Facebook-vs.-Google-AdWords
-
+## 📊 A/B Testing & Ad Performance Analysis: Facebook Ads vs Google Ads
 ## 🔍 Project Overview
 
 This project focuses on **A/B testing** using real-world marketing campaign data to analyze the performance of **Facebook** and **Google AdWords** campaigns. The goal is to determine which platform performs better by analyzing views, clicks, conversions, and cost metrics.
