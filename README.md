@@ -7,14 +7,14 @@ This analysis helps marketers make informed decisions and improve ROI based on d
 
 ---
 
-## 📁 Files Included
+## 📁 Files Included:
 
 - `AB Testing (Marketing Campaigns).ipynb`: Jupyter Notebook with complete analysis, visualizations, and A/B test results.
 - `marketing_campaign.csv`: Dataset containing digital ad performance data for Facebook and AdWords campaigns.
 
 ---
 
-## 🧪 Techniques Used
+## 🧪 Techniques Used: 
 
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
@@ -26,7 +26,7 @@ This analysis helps marketers make informed decisions and improve ROI based on d
 
 ---
 
-## 📊 Dataset Description
+## 📊 Dataset Description:
 
 The dataset contains weekly performance metrics for marketing campaigns across Facebook and AdWords. Below are the column names:
 
@@ -55,7 +55,7 @@ The dataset contains weekly performance metrics for marketing campaigns across F
 
 ---
 
-## 📌 Key Questions Answered
+## 📌 Key Questions Answered:
 
 - Which platform—Facebook or AdWords—performs better?
 - How do views, clicks, and conversions compare?
@@ -64,7 +64,7 @@ The dataset contains weekly performance metrics for marketing campaigns across F
 
 ---
 
-## 🔧 Tools & Technologies
+## 🔧 Tools & Technologies:
 
 - **Language**: Python  
 - **Libraries**: pandas, numpy, seaborn, matplotlib, scipy  
@@ -72,7 +72,7 @@ The dataset contains weekly performance metrics for marketing campaigns across F
 
 ---
 
-## ✅ Results & Insights
+## ✅ Results & Insights:
 
 - A/B testing provided statistical evidence on which ad platform yields better performance.
 - Found notable differences in conversion rate and cost efficiency between Facebook and AdWords.
@@ -80,11 +80,11 @@ The dataset contains weekly performance metrics for marketing campaigns across F
 
 ---
 
-## 📫 Contact
+## 📫 Contact 
 
 **Rakesh Meka**  
 📧 rakeshmeka.work@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/rakeshmeka/)
+🔗[LinkedIn](https://www.linkedin.com/in/rakeshmeka/)
 
 ---
 
