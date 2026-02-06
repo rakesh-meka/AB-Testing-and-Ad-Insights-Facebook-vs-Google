@@ -58,7 +58,7 @@ The dataset contains weekly performance metrics for marketing campaigns across F
 ## 📌 Key Questions Answered:
 
 - Which platform—Facebook or AdWords—performs better?
-- How do views, clicks, and conversions compare?
+- How do views, click and conversions compare?
 - What is the cost-effectiveness (CPC, CTR, CVR) of each platform?
 - Are the differences statistically significant?
 
