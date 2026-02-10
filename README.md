@@ -9,7 +9,7 @@ This analysis helps marketers make informed decisions and improve ROI based on d
 
 ## 📁 Files Included:
 
-- `AB Testing (Marketing Campaigns).ipynb`: Jupyter Notebook with complete analysis, visualizations, and A/B test results.
+- `AB Testing (Marketing Campaigns).ipynb`: Jupyter Notebook with complete analysis, visualizations and A/B test results.
 - `marketing_campaign.csv`: Dataset containing digital ad performance data for Facebook and AdWords campaigns.
 
 ---
