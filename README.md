@@ -88,4 +88,4 @@ The dataset contains weekly performance metrics for marketing campaigns across F
 
 ---
 
-⭐️ *If you found this project helpful, feel free to star the repo and share!*
+⭐️ *If you found this project helpful, feel free to star the repo!*
