@@ -28,7 +28,8 @@ This analysis helps marketers make informed decisions and improve ROI based on d
 
 ## 📊 Dataset Description:
 
-The dataset contains weekly performance metrics for marketing campaigns across Facebook and AdWords. Below are the column names:
+The dataset contains weekly performance metrics for marketing campaigns across Facebook and AdWords. 
+Below are the column names:
 
 ### 📆 Common
 - `Date`
