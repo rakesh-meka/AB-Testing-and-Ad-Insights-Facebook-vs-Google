@@ -83,7 +83,7 @@ Below are the column names:
 
 ## 📫 Contact 
 
-**Rakesh Meka**  
+Rakesh Meka
 📧 rakeshmeka.work@gmail.com  
 🔗[LinkedIn](https://www.linkedin.com/in/rakeshmeka/)
 
