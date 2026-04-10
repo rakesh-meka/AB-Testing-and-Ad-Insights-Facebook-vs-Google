@@ -21,7 +21,7 @@ This analysis helps marketers make informed decisions and improve ROI based on d
 - A/B Testing:
   - Hypothesis Formulation
   - Statistical Testing (t-test)
-- Data Visualization: matplotlib, seaborn
+- Data Visualization: matplotlib,seaborn
 - Insights & Business Recommendations
 
 ---
