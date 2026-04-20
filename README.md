@@ -89,4 +89,4 @@ Rakesh Meka
 
 ---
 
-⭐️ *If you found this project helpful, feel free to star the repo!*
+⭐️ If you found this project helpful, feel free to star the repo!
