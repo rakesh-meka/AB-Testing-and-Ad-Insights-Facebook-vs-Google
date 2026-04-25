@@ -68,7 +68,7 @@ Below are the column names:
 ## 🔧 Tools & Technologies:
 
 - **Language**: Python  
-- **Libraries**: pandas, numpy, seaborn, matplotlib, scipy  
+- **Libraries**: pandas, numpy, seaborn, matplotlib and scipy  
 - **Platform**: Jupyter Notebook
 
 ---
