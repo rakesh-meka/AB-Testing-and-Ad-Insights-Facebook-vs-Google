@@ -77,7 +77,7 @@ Below are the column names:
 
 - A/B testing provided statistical evidence on which ad platform yields better performance.
 - Found notable differences in conversion rate and cost efficiency between Facebook and AdWords.
-- Suggested data-driven recommendations for optimizing digital marketing budgets.
+- Suggested data-driven recommendations for optimizing digital marketing budget.
 
 ---
 
